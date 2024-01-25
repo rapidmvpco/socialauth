@@ -1,4 +1,4 @@
-This is the Flutterflow function for adding into your custom action. You will need to change the provider.github to whichever social provider you are using.
+This is the Flutterflow function for adding into your custom action. You will need to rename the function and change the `provider.github` to whichever social provider you are using.
 
 ```
 import 'package:supabase/supabase.dart';
